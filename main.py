@@ -3,3 +3,6 @@ for i in range(0,101):
       print(i)
       print(i ** 3)
 print("kaczka")
+
+name = input("podaj imię: ")
+print("cześć", name)
